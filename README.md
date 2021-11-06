@@ -52,6 +52,9 @@ sba_bot.subject_name(name="ENGLISH LANGUAGE", status_code="L").set_data(file="da
 | ------ | --------------------------- |
 | data   | contains `csv` file of data |
 
+## How to run
+run `pip install pipenv` to enter pipenv then run `pipenv install` then run `python main.py` to start the bot
+
 ## What i learnt
 headless browsing with `selenium` and `python`
 
